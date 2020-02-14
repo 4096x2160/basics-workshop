@@ -1,0 +1,47 @@
+[33mcommit 28d9f8974318009bf6b3787679f45e4968b8c768[m[33m ([m[1;36mHEAD -> [m[1;32msome-branch[m[33m)[m
+Author: Alex Hadland <alexander.hadland@gmail.com>
+Date:   Fri Feb 14 15:34:52 2020 -0800
+
+    Even cooler comment
+
+[33mcommit e5aa2235d60ad395f51c5bf205fa6dea23bec64a[m
+Author: Alex Hadland <alexander.hadland@gmail.com>
+Date:   Fri Feb 14 15:28:38 2020 -0800
+
+    Commit from some-branch
+
+[33mcommit 7ad6a5aeb6c7548a452a86fc5ce878f6e98d6203[m
+Author: Alex Hadland <alexander.hadland@gmail.com>
+Date:   Fri Feb 14 15:18:00 2020 -0800
+
+    Tested .gitignore by changing both .txts
+
+[33mcommit d8d6f770f4c5e4dbb079f3f95a2ccee0917d7047[m
+Author: Alex Hadland <alexander.hadland@gmail.com>
+Date:   Fri Feb 14 15:15:58 2020 -0800
+
+    modified gitignore
+
+[33mcommit 47c8847b16c539e6003dc57c594a682df36bc0ad[m
+Author: Alex Hadland <alexander.hadland@gmail.com>
+Date:   Fri Feb 14 15:14:33 2020 -0800
+
+    added .gitignore file
+
+[33mcommit 009c575e1883ce0848cb65a6266b09e41f472b77[m
+Author: Alex Hadland <alexander.hadland@gmail.com>
+Date:   Fri Feb 14 15:01:46 2020 -0800
+
+    echo hello world > a.txt to create a file in terminal
+
+[33mcommit 89fc371674413ad027749cb46c56ce2764d7afcf[m
+Author: Alex Hadland <alexander.hadland@gmail.com>
+Date:   Fri Feb 14 14:57:49 2020 -0800
+
+    Modified a.txt
+
+[33mcommit 3ac23f2a11eeb59d8a7a7ed56dcc18a0b069b152[m
+Author: Alex Hadland <alexander.hadland@gmail.com>
+Date:   Fri Feb 14 14:55:27 2020 -0800
+
+    Created a .txt
